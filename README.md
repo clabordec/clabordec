@@ -14,4 +14,6 @@
 - <b>Domain Name Systems</b>
   - [DNS](https://github.com/clabordec/dns-setup)
 
-<h2>🤳Connect with me:</h2>
+<h2>🤳Contact me:</h2>
+Email: <a href="mailto:chaanyahlaborde@gmail.com" target="_blank">chaanyahlaborde@gmail.com</a>
+Phone: 917-863-8841
