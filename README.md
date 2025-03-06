@@ -9,5 +9,9 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/clabordec/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/clabordec/azure-network-protocols)
+- <b>Virtual Private Networks(VPNs)</b>
+  - [VPN Setup and Usage](https://github.com/clabordec/vpn-setup)
+- <b>Domain Name Systems</b>
+  - [DNS](https://github.com/clabordec/dns-setup)
 
 <h2>🤳Connect with me:</h2>
