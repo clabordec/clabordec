@@ -15,5 +15,5 @@
   - [DNS](https://github.com/clabordec/dns-setup)
 
 <h2>🤳Contact me:</h2>
-Email: <a href="mailto:chaanyahlaborde@gmail.com" target="_blank">chaanyahlaborde@gmail.com</a>
+Email: <a href="mailto:chaanyahlaborde@gmail.com" target="_blank">chaanyahlaborde@gmail.com</a> <br>
 Phone: 917-863-8841
