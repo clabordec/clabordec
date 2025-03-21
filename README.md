@@ -12,7 +12,7 @@
   - [Inspecting Traffic Between Azure Virtual Machines And Adding Firewall Rules](https://github.com/clabordec/azure-virtual-machines)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/clabordec/azure-network-protocols)
 - <b>Wireshark Installation</b>
-  - [DNS](https://github.com/clabordec/wireshark-installation)
+  - [Wireshark](https://github.com/clabordec/wireshark-installation)
 - <b>Virtual Private Networks(VPNs)</b>
   - [VPN Setup and Usage](https://github.com/clabordec/vpn-setup)
 - <b>Domain Name Systems</b>
