@@ -5,7 +5,6 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/clabordec/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/clabordec/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/clabordec/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Preparing AD Infrastructure in Azure](https://github.com/clabordec/preparing-ad/tree/main)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/clabordec/configure-ad)
