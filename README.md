@@ -10,6 +10,10 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/clabordec/configure-ad)
   - [Inspecting Traffic Between Azure Virtual Machines And Adding Firewall Rules](https://github.com/clabordec/azure-virtual-machines)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/clabordec/azure-network-protocols)
+- <b>Microsoft Office 365</b>
+  - [Preparing AD Infrastructure in Azure](https://github.com/clabordec/comparing-licenses)
+  - [Preparing AD Infrastructure in Azure](https://github.com/clabordec/set-apps-inventory-cleanup)
+  - [Preparing AD Infrastructure in Azure](https://github.com/clabordec/creating-private-team)
 - <b>Wireshark Installation</b>
   - [Wireshark](https://github.com/clabordec/wireshark-installation)
 - <b>Virtual Private Networks(VPNs)</b>
