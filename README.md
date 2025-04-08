@@ -6,7 +6,7 @@
   - [osTicket: Prerequisites and Installation](https://github.com/clabordec/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/clabordec/post-install-config)
 - <b>Microsoft Azure</b>
-  - [Preparing AD Infrastructure in Azure](https://github.com/clabordec/preparing-ad/tree/main)
+  - [Preparing AD Infrastructure in Azure](https://github.com/clabordec/preparing-ad)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/clabordec/configure-ad)
   - [Inspecting Traffic Between Azure Virtual Machines And Adding Firewall Rules](https://github.com/clabordec/azure-virtual-machines)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/clabordec/azure-network-protocols)
