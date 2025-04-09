@@ -3,23 +3,23 @@
 <h2>👨‍💻 Information Technology Projects</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/clabordec/osticket-prereqs/main/README.md)
-  - [osTicket: Post-Installation Configuration](https://github.com/clabordec/post-install-config/main/README.md)
+  - [osTicket: Prerequisites and Installation](https://github.com/clabordec/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/clabordec/post-install-config)
 - <b>Microsoft Azure</b>
-  - [Preparing AD Infrastructure in Azure](https://github.com/clabordec/preparing-ad/main/README.md)
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/clabordec/configure-ad/main/README.md)
-  - [Inspecting Traffic Between Azure Virtual Machines And Adding Firewall Rules](https://github.com/clabordec/azure-virtual-machines/main/README.md)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/clabordec/azure-network-protocols/main/README.md)
+  - [Preparing AD Infrastructure in Azure](https://github.com/clabordec/preparing-ad)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/clabordec/configure-ad)
+  - [Inspecting Traffic Between Azure Virtual Machines And Adding Firewall Rules](https://github.com/clabordec/azure-virtual-machines)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/clabordec/azure-network-protocols)
 - <b>Microsoft Office 365</b>
-  - [Comparing Licenses](https://github.com/clabordec/comparing-licenses/main/README.md)
-  - [Inventory Cleanup](https://github.com/clabordec/set-apps-inventory-cleanup/main/README.md)
-  - [Private Team Creation](https://github.com/clabordec/creating-private-team/main/README.md)
+  - [Comparing Licenses](https://github.com/clabordec/comparing-licenses)
+  - [Inventory Cleanup](https://github.com/clabordec/set-apps-inventory-cleanup)
+  - [Private Team Creation](https://github.com/clabordec/creating-private-team)
 - <b>Wireshark Installation</b>
-  - [Wireshark](https://github.com/clabordec/wireshark-installation/main/README.md)
+  - [Wireshark](https://github.com/clabordec/wireshark-installation)
 - <b>Virtual Private Networks(VPNs)</b>
-  - [VPN Setup and Usage](https://github.com/clabordec/vpn-setup/main/README.md)
+  - [VPN Setup and Usage](https://github.com/clabordec/vpn-setup)
 - <b>Domain Name Systems</b>
-  - [DNS](https://github.com/clabordec/dns-setup/main/README.md)
+  - [DNS](https://github.com/clabordec/dns-setup)
 
 
 <h2>🤳Contact me</h2>
