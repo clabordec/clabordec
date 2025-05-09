@@ -11,7 +11,7 @@
   - [Inspecting Traffic Between Azure Virtual Machines And Adding Firewall Rules](https://github.com/clabordec/azure-virtual-machines)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/clabordec/azure-network-protocols)
 - <b>Microsoft Office 365</b>
-  - [Comparing Licenses](https://github.com/clabordec/comparing-licenses)
+  - [Command Line Switches](https://github.com/clabordec/command-line-switches)
   - [Inventory Cleanup](https://github.com/clabordec/set-apps-inventory-cleanup)
   - [Private Team Creation](https://github.com/clabordec/creating-private-team)
 - <b>Wireshark Installation</b>
