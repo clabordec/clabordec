@@ -10,6 +10,8 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/clabordec/configure-ad)
   - [Inspecting Traffic Between Azure Virtual Machines And Adding Firewall Rules](https://github.com/clabordec/azure-virtual-machines)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/clabordec/azure-network-protocols)
+- <b>Active Directory</b>
+  - [Setting up Active Directory](https://github.com/clabordec/active-directory-setup)
 - <b>Microsoft Office 365</b>
   - [Command Line Switches](https://github.com/clabordec/command-line-switches)
   - [Inventory Cleanup](https://github.com/clabordec/set-apps-inventory-cleanup)
