@@ -12,6 +12,7 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/clabordec/azure-network-protocols)
 - <b>Active Directory</b>
   - [Setting up Active Directory](https://github.com/clabordec/active-directory-setup)
+  - [Adding a computer to the Domain](https://github.com/clabordec/add-computer-to-domain)
 - <b>Microsoft Office 365</b>
   - [Command Line Switches](https://github.com/clabordec/command-line-switches)
   - [Inventory Cleanup](https://github.com/clabordec/set-apps-inventory-cleanup)
