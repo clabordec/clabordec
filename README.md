@@ -17,10 +17,10 @@
   - [Creating Users and Security Groups](https://github.com/clabordec/user-security-group-creation)
   - [User Management](https://github.com/clabordec/user-management)
   - [Adding a Computer Back to the Domain](https://github.com/clabordec/adding-computer-back-to-domain)
-- <b>Microsoft Office 365</b>
-  - [Command Line Switches](https://github.com/clabordec/command-line-switches)
-  - [Office 365 Exchange](https://github.com/clabordec/exchange-admin-center)
-  - [Private Team Creation](https://github.com/clabordec/creating-private-team)
+- <b>Microsoft 365</b>
+  - [Inventory Cleanup](https://github.com/clabordec/set-apps-inventory-cleanup)
+  - [Creating a Private Team](https://github.com/clabordec/creating-private-team)
+  - [Private Finanacial Data](https://github.com/clabordec/private-financial-data)
 - <b>Wireshark Installation</b>
   - [Wireshark](https://github.com/clabordec/wireshark-installation)
 - <b>Virtual Private Networks(VPNs)</b>
