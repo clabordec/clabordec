@@ -15,7 +15,7 @@
   - [Adding a computer to the Domain](https://github.com/clabordec/add-computer-to-domain)
 - <b>Microsoft Office 365</b>
   - [Command Line Switches](https://github.com/clabordec/command-line-switches)
-  - [Inventory Cleanup](https://github.com/clabordec/set-apps-inventory-cleanup)
+  - [Office 365 Exchange](https://github.com/clabordec/exchange-admin-center)
   - [Private Team Creation](https://github.com/clabordec/creating-private-team)
 - <b>Wireshark Installation</b>
   - [Wireshark](https://github.com/clabordec/wireshark-installation)
