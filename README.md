@@ -7,9 +7,9 @@
   - [osTicket: Post-Installation Configuration](https://github.com/clabordec/post-install-config)
 - <b>Windows Server 2022</b>
   - [Installing and setting up Windows Server 2022](https://github.com/clabordec/windows-server-2022)
-  - [Adding a Computer to the Domain](https://github.com/clabordec/adding-computer-to-domain)
   - [Changing the Computer Name](https://github.com/clabordec/changing-computer-name)
   - [Changing the IP Address from DHCP to Static](https://github.com/clabordec/static-ip-address)
+  - [Adding a Computer to the Domain](https://github.com/clabordec/adding-computer-to-domain)
 - <b>Microsoft Azure</b>
   - [Preparing AD Infrastructure in Azure](https://github.com/clabordec/preparing-ad)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/clabordec/configure-ad)
