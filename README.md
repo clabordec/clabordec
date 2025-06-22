@@ -1,6 +1,6 @@
 <h1>Hi, I'm Chaanyah, an <a href="https://linkedin.com/in/claborde/">Data Explorer</a>☺</h1>
 
-<h2>👨‍💻 Information Technology Projects</h2>
+<h2>👨‍💻 Data Analysis & Analytics Projects</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/clabordec/osticket-prereqs)
