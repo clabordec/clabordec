@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Data Analysis & Analytics Projects</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
+- <b>Excel</b>
   - [osTicket: Prerequisites and Installation](https://github.com/clabordec/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/clabordec/post-install-config)
 - <b>Windows Server 2022</b>
