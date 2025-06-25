@@ -5,7 +5,7 @@
 - <b>Excel</b>
   - [osTicket: Prerequisites and Installation](https://github.com/clabordec/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/clabordec/post-install-config)
-- <b>Windows Server 2022</b>
+- <b>SQL</b>
   - [Installing and setting up Windows Server 2022](https://github.com/clabordec/windows-server-2022)
   - [Changing the Computer Name](https://github.com/clabordec/changing-computer-name)
   - [Changing the IP Address from DHCP to Static](https://github.com/clabordec/static-ip-address)
