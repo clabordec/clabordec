@@ -10,7 +10,7 @@
   - [Changing the Computer Name](https://github.com/clabordec/changing-computer-name)
   - [Changing the IP Address from DHCP to Static](https://github.com/clabordec/static-ip-address)
   - [Adding a Computer to the Domain](https://github.com/clabordec/adding-computer-to-domain)
-- <b>Microsoft Azure</b>
+- <b>Python</b>
   - [Preparing AD Infrastructure in Azure](https://github.com/clabordec/preparing-ad)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/clabordec/configure-ad)
   - [Inspecting Traffic Between Azure Virtual Machines And Adding Firewall Rules](https://github.com/clabordec/azure-virtual-machines)
