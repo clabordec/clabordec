@@ -15,7 +15,7 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/clabordec/configure-ad)
   - [Inspecting Traffic Between Azure Virtual Machines And Adding Firewall Rules](https://github.com/clabordec/azure-virtual-machines)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/clabordec/azure-network-protocols)
-- <b>Active Directory</b>
+- <b>Power BI</b>
   - [Creating Users and Security Groups](https://github.com/clabordec/user-security-group-creation)
   - [User Management](https://github.com/clabordec/user-management)
   - [Adding a Computer Back to the Domain](https://github.com/clabordec/adding-computer-back-to-domain)
