@@ -19,7 +19,7 @@
   - [Creating Users and Security Groups](https://github.com/clabordec/user-security-group-creation)
   - [User Management](https://github.com/clabordec/user-management)
   - [Adding a Computer Back to the Domain](https://github.com/clabordec/adding-computer-back-to-domain)
-- <b>Microsoft 365</b>
+- <b>Tableau</b>
   - [Inventory Cleanup](https://github.com/clabordec/set-apps-inventory-cleanup)
   - [Creating a Private Team](https://github.com/clabordec/creating-private-team)
   - [Private Finanacial Data](https://github.com/clabordec/private-financial-data)
