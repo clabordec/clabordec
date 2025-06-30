@@ -25,7 +25,7 @@
   - [Private Finanacial Data](https://github.com/clabordec/private-financial-data)
 - <b>Wireshark Installation</b>
   - [Wireshark](https://github.com/clabordec/wireshark-installation)
-- <b>Virtual Private Networks(VPNs)</b>
+- <b>Data Warehousing(VPNs)</b>
   - [VPN Setup and Usage](https://github.com/clabordec/vpn-setup)
 - <b>Domain Name Systems</b>
   - [DNS](https://github.com/clabordec/dns-setup)
