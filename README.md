@@ -23,8 +23,6 @@
   - [Inventory Cleanup](https://github.com/clabordec/set-apps-inventory-cleanup)
   - [Creating a Private Team](https://github.com/clabordec/creating-private-team)
   - [Private Finanacial Data](https://github.com/clabordec/private-financial-data)
-- <b>Wireshark Installation</b>
-  - [Wireshark](https://github.com/clabordec/wireshark-installation)
 - <b>Data Warehousing(VPNs)</b>
   - [VPN Setup and Usage](https://github.com/clabordec/vpn-setup)
 - <b>Domain Name Systems</b>
