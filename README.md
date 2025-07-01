@@ -23,7 +23,7 @@
   - [Inventory Cleanup](https://github.com/clabordec/set-apps-inventory-cleanup)
   - [Creating a Private Team](https://github.com/clabordec/creating-private-team)
   - [Private Finanacial Data](https://github.com/clabordec/private-financial-data)
-- <b>Data Warehousing(VPNs)</b>
+- <b>Data Warehousing</b>
   - [VPN Setup and Usage](https://github.com/clabordec/vpn-setup)
 - <b>Domain Name Systems</b>
   - [DNS](https://github.com/clabordec/dns-setup)
