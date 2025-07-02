@@ -25,8 +25,6 @@
   - [Private Finanacial Data](https://github.com/clabordec/private-financial-data)
 - <b>Data Warehousing</b>
   - [VPN Setup and Usage](https://github.com/clabordec/vpn-setup)
-- <b>Domain Name Systems</b>
-  - [DNS](https://github.com/clabordec/dns-setup)
 
 
 <h2>🤳Contact me</h2>
