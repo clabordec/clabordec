@@ -3,7 +3,7 @@
 <h2>👨‍💻 Data Analysis & Analytics Projects</h2>
 
 - <b>Excel</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/clabordec/osticket-prereqs)
+  - [Project 1](https://github.com/clabordec/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/clabordec/post-install-config)
 - <b>SQL</b>
   - [Installing and setting up Windows Server 2022](https://github.com/clabordec/windows-server-2022)
