@@ -4,7 +4,7 @@
 
 - <b>Excel</b>
   - [Project 1](https://github.com/clabordec/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/clabordec/post-install-config)
+  - [Project 2](https://github.com/clabordec/post-install-config)
 - <b>SQL</b>
   - [Installing and setting up Windows Server 2022](https://github.com/clabordec/windows-server-2022)
   - [Changing the Computer Name](https://github.com/clabordec/changing-computer-name)
