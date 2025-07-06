@@ -8,7 +8,7 @@
 - <b>SQL</b>
   - [Project 1](https://github.com/clabordec/windows-server-2022)
   - [Project 2](https://github.com/clabordec/changing-computer-name)
-  - [Changing the IP Address from DHCP to Static](https://github.com/clabordec/static-ip-address)
+  - [Project 3](https://github.com/clabordec/static-ip-address)
   - [Adding a Computer to the Domain](https://github.com/clabordec/adding-computer-to-domain)
 - <b>Python</b>
   - [Preparing AD Infrastructure in Azure](https://github.com/clabordec/preparing-ad)
