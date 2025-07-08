@@ -9,7 +9,7 @@
   - [Project 1](https://github.com/clabordec/windows-server-2022)
   - [Project 2](https://github.com/clabordec/changing-computer-name)
   - [Project 3](https://github.com/clabordec/static-ip-address)
-  - [Adding a Computer to the Domain](https://github.com/clabordec/adding-computer-to-domain)
+  - [Project 4](https://github.com/clabordec/adding-computer-to-domain)
 - <b>Python</b>
   - [Preparing AD Infrastructure in Azure](https://github.com/clabordec/preparing-ad)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/clabordec/configure-ad)
