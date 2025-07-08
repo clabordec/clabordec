@@ -11,7 +11,7 @@
   - [Project 3](https://github.com/clabordec/static-ip-address)
   - [Project 4](https://github.com/clabordec/adding-computer-to-domain)
 - <b>Python</b>
-  - [Preparing AD Infrastructure in Azure](https://github.com/clabordec/preparing-ad)
+  - [Project 1](https://github.com/clabordec/preparing-ad)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/clabordec/configure-ad)
   - [Inspecting Traffic Between Azure Virtual Machines And Adding Firewall Rules](https://github.com/clabordec/azure-virtual-machines)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/clabordec/azure-network-protocols)
