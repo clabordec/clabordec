@@ -10,6 +10,7 @@
   - [Customer Cleansing](https://github.com/clabordec/Microsoft-SQL-Server/blob/main/Projects/CustomerCleanUp.sql)
   - [Stamp Purchase Audits](https://github.com/clabordec/Microsoft-SQL-Server/blob/main/Projects/StampPurchaseAudits.sql)
   - [Product Comparison](https://github.com/clabordec/Microsoft-SQL-Server/blob/main/Projects/ProductComparison.sql)
+  - [Defect Production Tracking](https://github.com/clabordec/defect-tracking-report)
 - <b>Python</b>
   - [Maven Ski Shop](https://github.com/clabordec/Maven-Ski-Shop)
 
