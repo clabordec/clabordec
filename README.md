@@ -1,6 +1,6 @@
 <h1>Hi, I'm Chaanyah, an <a href="https://linkedin.com/in/claborde/">IT Professional</a>☺</h1>
 
-<h2>👨‍💻 IT Projects</h2>
+<h2>👨‍💻 DevOps Porjects</h2>
 
 - <b>Windows Server 2022</b>
   - [Coffe Bean Sales](https://github.com/clabordec/Coffee-Bean-Sales)
