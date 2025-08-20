@@ -2,16 +2,16 @@
 
 <h2>👨‍💻 DevOps Porjects</h2>
 
-- <b>Windows Server 2022</b>
+- <b>Concept 1</b>
   - [Coffe Bean Sales](https://github.com/clabordec/Coffee-Bean-Sales)
   - [Bike Sales](https://github.com/clabordec/Bike-Sales)
-- <b>Active Directory</b>
+- <b>Concept 2</b>
   - [Adventure Works Monthly Orders](https://github.com/clabordec/Adventure-Works-Monthly-Orders)
   - [Customer Cleansing](https://github.com/clabordec/Microsoft-SQL-Server/blob/main/Projects/CustomerCleanUp.sql)
   - [Stamp Purchase Audits](https://github.com/clabordec/Microsoft-SQL-Server/blob/main/Projects/StampPurchaseAudits.sql)
   - [Product Comparison](https://github.com/clabordec/Microsoft-SQL-Server/blob/main/Projects/ProductComparison.sql)
   - [Defect Production Tracking](https://github.com/clabordec/defect-tracking-report)
-- <b>Microsoft Azure</b>
+- <b>Concept 3</b>
   - [Maven Ski Shop](https://github.com/clabordec/Maven-Ski-Shop)
 
 
