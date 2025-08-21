@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 DevOps Porjects</h2>
 
-- <b>Concept 1</b>
+- <b>AWS</b>
   - [Coffe Bean Sales](https://github.com/clabordec/Coffee-Bean-Sales)
   - [Bike Sales](https://github.com/clabordec/Bike-Sales)
 - <b>Concept 2</b>
