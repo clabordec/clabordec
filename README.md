@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Database Engineer Projects</h2>
 
-- <b>AWS</b>
+- <b>MySQL</b>
   - [Coffe Bean Sales](https://github.com/clabordec/Coffee-Bean-Sales)
   - [Bike Sales](https://github.com/clabordec/Bike-Sales)
 - <b>Concept 2</b>
