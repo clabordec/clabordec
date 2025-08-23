@@ -5,7 +5,7 @@
 - <b>MySQL</b>
   - [Coffe Bean Sales](https://github.com/clabordec/Coffee-Bean-Sales)
   - [Bike Sales](https://github.com/clabordec/Bike-Sales)
-- <b>Concept 2</b>
+- <b>PostgreSQL</b>
   - [Adventure Works Monthly Orders](https://github.com/clabordec/Adventure-Works-Monthly-Orders)
   - [Customer Cleansing](https://github.com/clabordec/Microsoft-SQL-Server/blob/main/Projects/CustomerCleanUp.sql)
   - [Stamp Purchase Audits](https://github.com/clabordec/Microsoft-SQL-Server/blob/main/Projects/StampPurchaseAudits.sql)
