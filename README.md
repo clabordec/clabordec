@@ -11,7 +11,7 @@
   - [Stamp Purchase Audits](https://github.com/clabordec/Microsoft-SQL-Server/blob/main/Projects/StampPurchaseAudits.sql)
   - [Product Comparison](https://github.com/clabordec/Microsoft-SQL-Server/blob/main/Projects/ProductComparison.sql)
   - [Defect Production Tracking](https://github.com/clabordec/defect-tracking-report)
-- <b>Concept 3</b>
+- <b>SQL Server</b>
   - [Maven Ski Shop](https://github.com/clabordec/Maven-Ski-Shop)
 
 
