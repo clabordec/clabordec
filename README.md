@@ -1,4 +1,4 @@
-<h1>Hi, I'm Chaanyah, an <a href="https://linkedin.com/in/claborde/">Cloud Professional</a>☺</h1>
+<h1>Hi, I'm Chaanyah, a <a href="https://linkedin.com/in/claborde/">Cloud Professional</a>☺</h1>
 
 <h2>👨‍💻 Cloud Engineer Projects</h2>
 
