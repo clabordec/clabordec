@@ -1,6 +1,6 @@
-<h1>Hi, I'm Chaanyah, a <a href="https://linkedin.com/in/claborde/">Database Professional</a>☺</h1>
+<h1>Hi, I'm Chaanyah, a <a href="https://linkedin.com/in/claborde/">Data Professional</a>☺</h1>
 
-<h2>👨‍💻 Database Engineer Projects</h2>
+<h2>👨‍💻 Datab Analysis & Analytics Projects</h2>
 
 - <b>MySQL</b>
   - [Coffe Bean Sales](https://github.com/clabordec/Coffee-Bean-Sales)
