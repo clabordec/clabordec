@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Data Analysis & Analytics Projects</h2>
 
-- <b>MySQL</b>
+- <b>Excel</b>
   - [Coffe Bean Sales](https://github.com/clabordec/Coffee-Bean-Sales)
   - [Bike Sales](https://github.com/clabordec/Bike-Sales)
 - <b>PostgreSQL</b>
