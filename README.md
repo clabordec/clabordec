@@ -5,6 +5,8 @@
 - <b>Excel</b>
   - [Coffe Bean Sales](https://github.com/clabordec/Coffee-Bean-Sales)
   - [Bike Sales](https://github.com/clabordec/Bike-Sales)
+- <b>MySQL</b>
+  - [Major League Baseball](https://github.com/clabordec/Major-League-Baseball)
 - <b>PostgreSQL</b>
   - [GreenCyclces](https://github.com/clabordec/Green-Cyclces)
   - [Customer Cleansing](https://github.com/clabordec/Microsoft-SQL-Server/blob/main/Projects/CustomerCleanUp.sql)
