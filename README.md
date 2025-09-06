@@ -10,7 +10,7 @@
 - <b>PostgreSQL</b>
   - [GreenCyclces](https://github.com/clabordec/Green-Cyclces)
 - <b>SQL Server</b>
-  - [GreenCyclces](https://github.com/clabordec/Green-Cyclces)
+  - [Project]()
 - <b>Python</b>
   - [Maven Ski Shop](https://github.com/clabordec/Maven-Ski-Shop)
 
