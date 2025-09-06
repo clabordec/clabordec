@@ -9,11 +9,9 @@
   - [Major League Baseball](https://github.com/clabordec/Major-League-Baseball)
 - <b>PostgreSQL</b>
   - [GreenCyclces](https://github.com/clabordec/Green-Cyclces)
-  - [Customer Cleansing](https://github.com/clabordec/Microsoft-SQL-Server/blob/main/Projects/CustomerCleanUp.sql)
-  - [Stamp Purchase Audits](https://github.com/clabordec/Microsoft-SQL-Server/blob/main/Projects/StampPurchaseAudits.sql)
-  - [Product Comparison](https://github.com/clabordec/Microsoft-SQL-Server/blob/main/Projects/ProductComparison.sql)
-  - [Defect Production Tracking](https://github.com/clabordec/defect-tracking-report)
 - <b>SQL Server</b>
+  - [GreenCyclces](https://github.com/clabordec/Green-Cyclces)
+- <b>Python</b>
   - [Maven Ski Shop](https://github.com/clabordec/Maven-Ski-Shop)
 
 
