@@ -7,7 +7,7 @@
   - [Bike Sales](https://github.com/clabordec/Bike-Sales)
 - <b>MySQL</b>
   - [Major League Baseball](https://github.com/clabordec/Major-League-Baseball)
-  - [Maven Duzzy Factoru](https://github.com/clabordec/Maven-Fuzzy-Factory)
+  - [Maven Fuzzy Factory](https://github.com/clabordec/Maven-Fuzzy-Factory)
 - <b>PostgreSQL</b>
   - [GreenCyclces](https://github.com/clabordec/Green-Cyclces)
 - <b>SQL Server</b>
