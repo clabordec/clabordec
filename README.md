@@ -8,7 +8,7 @@
 - <b>Windows Server 2022</b>
   - [Major League Baseball](https://github.com/clabordec/Major-League-Baseball)
   - [Maven Fuzzy Factory](https://github.com/clabordec/Maven-Fuzzy-Factory)
-- <b>PostgreSQL</b>
+- <b>Active Directory</b>
   - [GreenCyclces](https://github.com/clabordec/Green-Cyclces)
 - <b>SQL Server</b>
   - [Project]()
