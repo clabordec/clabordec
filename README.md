@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Information Technology Projects</h2>
 
-- <b>Excel</b>
+- <b>Windows Server 2016</b>
   - [Coffe Bean Sales](https://github.com/clabordec/Coffee-Bean-Sales)
   - [Bike Sales](https://github.com/clabordec/Bike-Sales)
 - <b>MySQL</b>
