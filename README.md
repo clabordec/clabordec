@@ -1,6 +1,6 @@
-<h1>Hi, I'm Chaanyah, a <a href="https://linkedin.com/in/claborde/">Data Professional</a>☺</h1>
+<h1>Hi, I'm Chaanyah, a <a href="https://linkedin.com/in/claborde/">IT Professional</a>☺</h1>
 
-<h2>👨‍💻 Data Analysis & Analytics Projects</h2>
+<h2>👨‍💻 Information Technology Projects</h2>
 
 - <b>Excel</b>
   - [Coffe Bean Sales](https://github.com/clabordec/Coffee-Bean-Sales)
