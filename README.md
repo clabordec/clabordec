@@ -3,11 +3,12 @@
 <h2>👨‍💻 Information Technology Projects</h2>
 
 - <b>Windows Server 2016</b>
-  - [Coffe Bean Sales](https://github.com/clabordec/Coffee-Bean-Sales)
+  - [Windows Server 2016 Setup](https://github.com/clabordec/windows-server-2022)
   - [Bike Sales](https://github.com/clabordec/Bike-Sales)
 - <b>Windows Server 2022</b>
-  - [Major League Baseball](https://github.com/clabordec/Major-League-Baseball)
-  - [Maven Fuzzy Factory](https://github.com/clabordec/Maven-Fuzzy-Factory)
+  - [Windows Server 2022 Setup](https://github.com/clabordec/windows-server-2022)
+  - [Changing the Computer name](https://github.com/clabordec/changing-computer-name)
+  - [Creating a Static IP Address](https://github.com/clabordec/static-ip-address)
 - <b>Active Directory</b>
   - [GreenCyclces](https://github.com/clabordec/Green-Cyclces)
 - <b>Microsoft Azure</b>
