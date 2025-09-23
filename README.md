@@ -5,7 +5,7 @@
 - <b>Windows Server 2016</b>
   - [Coffe Bean Sales](https://github.com/clabordec/Coffee-Bean-Sales)
   - [Bike Sales](https://github.com/clabordec/Bike-Sales)
-- <b>MySQL</b>
+- <b>Windows Server 2022</b>
   - [Major League Baseball](https://github.com/clabordec/Major-League-Baseball)
   - [Maven Fuzzy Factory](https://github.com/clabordec/Maven-Fuzzy-Factory)
 - <b>PostgreSQL</b>
