@@ -4,7 +4,6 @@
 
 - <b>Windows Server 2016</b>
   - [Windows Server 2016 Setup](https://github.com/clabordec/windows-server-2022)
-  - [Bike Sales](https://github.com/clabordec/Bike-Sales)
 - <b>Windows Server 2022</b>
   - [Windows Server 2022 Setup](https://github.com/clabordec/windows-server-2022)
   - [Changing the Computer name](https://github.com/clabordec/changing-computer-name)
