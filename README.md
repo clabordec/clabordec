@@ -5,7 +5,7 @@
 - <b>Windows Server 2016</b>
   - [Windows Server 2016 Setup](https://github.com/clabordec/windows-server-2022)
 - <b>Windows Server 2019</b>
-  - [Windows Server 2019 Setup](https://github.com/clabordec/windows-server-2022)
+  - [Windows Server 2019 Setup](https://github.com/clabordec/windows-server-2019)
 - <b>Windows Server 2022</b>
   - [Windows Server 2022 Setup](https://github.com/clabordec/windows-server-2022)
   - [Changing the Computer name](https://github.com/clabordec/changing-computer-name)
