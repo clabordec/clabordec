@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects</h2>
 
 - <b>Windows Server 2016</b>
-  - [Windows Server 2016 Setup](https://github.com/clabordec/windows-server-2022)
+  - [Windows Server 2016 Setup](https://github.com/clabordec/windows-server-2016)
 - <b>Windows Server 2019</b>
   - [Windows Server 2019 Setup](https://github.com/clabordec/windows-server-2019)
 - <b>Windows Server 2022</b>
