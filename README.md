@@ -15,8 +15,8 @@
   - [GreenCyclces](https://github.com/clabordec/Green-Cyclces)
 - <b>Microsoft Azure</b>
   - [Azure Network Protocols](https://github.com/clabordec/azure-network-protocols)
-- <b>Python</b>
-  - [Maven Ski Shop](https://github.com/clabordec/Maven-Ski-Shop)
+- <b>SQL</b>
+  
 
 
 <br>
