@@ -18,7 +18,10 @@
   - [Network Traffic within Azure](https://github.com/clabordec/azure-virtual-machines)
   - [Azure Network Protocols](https://github.com/clabordec/azure-network-protocols)
 - <b>SQL</b>
-  
+  - [MySQL](https://github.com/clabordec/MySQL)
+  - [PostgreSQL](https://github.com/clabordec/PostgreSQL)
+  - [SQL Server](https://github.com/clabordec/Microsoft-SQL-Server)
+  - [Oracle](https://github.com/clabordec/Oracle-SQL-Developer)
 
 
 <br>
