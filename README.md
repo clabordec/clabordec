@@ -12,7 +12,8 @@
   - [Creating a Static IP Address](https://github.com/clabordec/static-ip-address)
   - [Adding Computers to the Domain](https://github.com/clabordec/adding-computer-to-domain)
 - <b>Active Directory</b>
-  - [User & Security Groups Creation and Management](https://github.com/clabordec/user-management)
+  - [User & Security Groups Creation](https://github.com/clabordec/user-security-group-creation)
+  - [User Management](https://github.com/clabordec/user-management)
 - <b>Microsoft Azure</b>
   - [Azure Network Protocols](https://github.com/clabordec/azure-network-protocols)
 - <b>SQL</b>
