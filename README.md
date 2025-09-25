@@ -15,6 +15,7 @@
   - [User & Security Groups Creation](https://github.com/clabordec/user-security-group-creation)
   - [User Management](https://github.com/clabordec/user-management)
 - <b>Microsoft Azure</b>
+  - [Network Traffic within Azure](https://github.com/clabordec/azure-virtual-machines)
   - [Azure Network Protocols](https://github.com/clabordec/azure-network-protocols)
 - <b>SQL</b>
   
