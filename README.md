@@ -12,7 +12,7 @@
   - [Creating a Static IP Address](https://github.com/clabordec/static-ip-address)
   - [Adding Computers to the Domain](https://github.com/clabordec/adding-computer-to-domain)
 - <b>Active Directory</b>
-  - [GreenCyclces](https://github.com/clabordec/Green-Cyclces)
+  - [User & Security Groups Creation and Management](https://github.com/clabordec/user-management)
 - <b>Microsoft Azure</b>
   - [Azure Network Protocols](https://github.com/clabordec/azure-network-protocols)
 - <b>SQL</b>
