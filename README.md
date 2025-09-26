@@ -14,12 +14,8 @@
 
 - <b>[Kev Tech](https://github.com/clabordec/kevtech)</b>
 - <b>[Job Skill Share](https://github.com/clabordec/jobskillshare)</b>
+- <b>[Windows Server 2022]()</b>
 - <b>[Afzals](https://github.com/clabordec/afzals)</b>
-- <b>Windows Server 2022</b>
-  - [Windows Server 2022 Setup](https://github.com/clabordec/windows-server-2022)
-  - [Changing the Computer name](https://github.com/clabordec/changing-computer-name)
-  - [Creating a Static IP Address](https://github.com/clabordec/static-ip-address)
-  - [Adding Computers to the Domain](https://github.com/clabordec/adding-computer-to-domain)
 - <b>Maven</b>
 
 
