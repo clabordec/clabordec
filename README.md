@@ -26,6 +26,11 @@
 
 <br>
 
+<h2>🦾 Skills</h2>
+
+
+<br>
+
 
 <h2>🤳Contact me</h2>
 Email: <a href="mailto:chaanyahlaborde@gmail.com" target="_blank">chaanyahlaborde@gmail.com</a> <br>
