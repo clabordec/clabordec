@@ -12,10 +12,9 @@
 
 <h2>👨‍💻 Information Technology Projects</h2>
 
-- <b>Kev Tech</b>
-  - [Windows Server 2016 Setup](https://github.com/clabordec/windows-server-2016)
-- <b>Job Skill Share</b>
-  - [Windows Server 2019 Setup](https://github.com/clabordec/windows-server-2019)
+- <b>[Kev Tech](https://github.com/clabordec/kevtech)</b>
+- <b>[Job Skill Share](https://github.com/clabordec/jobskillshare)</b>
+- <b>[Afzals](https://github.com/clabordec/afzals)</b>
 - <b>Windows Server 2022</b>
   - [Windows Server 2022 Setup](https://github.com/clabordec/windows-server-2022)
   - [Changing the Computer name](https://github.com/clabordec/changing-computer-name)
