@@ -22,6 +22,7 @@
 <br>
 
 <h2>🦾 Skills</h2>
+
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
