@@ -28,11 +28,11 @@
 | Windows Server 2016 Setup                     | <a href="https://github.com/clabordec/windows-server-2016">Windows Server 2016</a>|
 | Windows Server 2019 Setup                     | <a href="https://github.com/clabordec/windows-server-2019">Windows Server 2019</a>|
 | Windows Server 2022 Setup                     | <a href="https://github.com/clabordec/windows-server-2022">Windows Server 2022</a>|
-| Active Directory User & Groups Creation       | <a href="https://github.com/clabordec/user-security-group-creation">Windows Server 2018</a>|
-| Active Directory User Management              | <a href="https://github.com/clabordec/user-management">Windows Server 2018</a>|
-| Network Traffic within Microsoft Azure        | <a href="https://github.com/clabordec/azure-network-protocols">Windows Server 2018</a>|
-| Microsoft Azure Virtual Machines              | <a href="https://github.com/clabordec/azure-virtual-machines">Windows Server 2018</a>|
-| Microsoft Azure Virtual Machines              | <a href="https://google.com">Windows Server 2018</a>|
+| Active Directory User & Groups Creation       | <a href="https://github.com/clabordec/user-security-group-creation">User & Group Creation</a>|
+| Active Directory User Management              | <a href="https://github.com/clabordec/user-management">User Management</a>|
+| Network Traffic within Microsoft Azure        | <a href="https://github.com/clabordec/azure-network-protocols">Azure Network Security Groups(NSGs)</a>|
+| Microsoft Azure Virtual Machines              | <a href="https://github.com/clabordec/azure-virtual-machines">Azure VMs</a>|
+| Microsoft Azure Virtual Machines              | <a href="https://google.com">Azure VMs</a>|
 
 <br>
 
