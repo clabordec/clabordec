@@ -6,7 +6,15 @@ Systems Analyst with 7+ years of experience in requirements gathering, system in
 <br>
 
 <h2>💼 Objective</h2>
-
+My journey within the field of system analysis and analytics has led me to discover a new passion for technical support, and now I am eager to expose my skill set, showcase the knowlegde that I have gained within my 7 years of being in IT. Specifically aiming for the following roles:
+  
+  - IT Support Analyst
+  - Helpdesk Support Analyst
+  - Technical Support Analyst
+  - Technical Support Engineer
+  - Desktop Support Technician
+  - Desktop Support Engineer
+  - Service Desk Analyst
 
 <br>
 
