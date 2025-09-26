@@ -25,12 +25,14 @@
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Windows Server 2016 Setup                     | <a href="https://github.com/clabordec/windows-server-2016">Windows Server 2016</a>|
+| Windows Server 2019 Setup                     | <a href="https://github.com/clabordec/windows-server-2019">Windows Server 2019</a>|
+| Windows Server 2022 Setup                     | <a href="https://github.com/clabordec/windows-server-2022">Windows Server 2022</a>|
+| Active Directory User & Groups Creation       | <a href="https://github.com/clabordec/user-security-group-creation">Windows Server 2018</a>|
+| Active Directory User Management              | <a href="https://github.com/clabordec/user-management">Windows Server 2018</a>|
+| Network Traffic within Microsoft Azure        | <a href="https://github.com/clabordec/azure-network-protocols">Windows Server 2018</a>|
+| Microsoft Azure Virtual Machines              | <a href="https://github.com/clabordec/azure-virtual-machines">Windows Server 2018</a>|
+| Microsoft Azure Virtual Machines              | <a href="https://google.com">Windows Server 2018</a>|
 
 <br>
 
