@@ -3,7 +3,7 @@
 <h2>👋 Introduction</h2>
 Systems Analyst with 7+ years of experience in requirements gathering, system integration, and process improvement, delivering efficient and scalable technology solutions.
 
-<br>
+<br><br>
 
 <h2>💼 Objective</h2>
 My journey within the field of system analysis and analytics has led me to discover a new passion for technical support, and now I am eager to expose my skill set, showcase the knowlegde that I have gained within my 7 years of being in IT. Specifically aiming for the following roles: <br><br>
