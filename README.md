@@ -31,7 +31,7 @@ My journey within the field of system analysis and analytics has led me to disco
 
 <h2>🦾 Skills</h2>
 
-| Skill                                         | Associated Project         |
+| Skills                                        | Associated Projects        |
 |-----------------------------------------------|----------------------------|
 | Windows Server 2016 Setup                     | <a href="https://github.com/clabordec/windows-server-2016">Windows Server 2016</a>|
 | Windows Server 2019 Setup                     | <a href="https://github.com/clabordec/windows-server-2019">Windows Server 2019</a>|
