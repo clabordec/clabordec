@@ -1,4 +1,4 @@
-<h1>Hi, I'm Chaanyah, an <a href="https://linkedin.com/in/claborde/">IT Professional</a>☺</h1>
+<h1>Hi, I'm Chaanyah, an <a href="https://linkedin.com/in/claborde/">Data Professional</a>☺</h1>
 
 <h2>👋 Introduction</h2>
 Systems Analyst with 7+ years of experience in requirements gathering, software deployment, user management, system integration, and process improvement, delivering efficient and scalable technology solutions.
@@ -18,7 +18,7 @@ My journey within the field of system analysis and analytics has led me to disco
 
 <br>
 
-<h2>👨‍💻 Information Technology Projects</h2>
+<h2>👨‍💻 Data Projects</h2>
 
 - <b>[Kev Tech](https://github.com/clabordec/kevtech)</b>
 - <b>[Job Skill Share](https://github.com/clabordec/jobskillshare)</b>
