@@ -23,7 +23,6 @@ My journey within the field of system analysis and analytics has led me to disco
 - <b>[Kev Tech](https://github.com/clabordec/kevtech)</b>
 - <b>[Job Skill Share](https://github.com/clabordec/jobskillshare)</b>
 - <b>[MyDFIR](https://github.com/clabordec/mydfir)</b>
-- <b>[Afzals](https://github.com/clabordec/afzals)</b>
 - <b>[Maven](https://github.com/clabordec/maven)</b>
 
 
