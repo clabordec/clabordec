@@ -45,6 +45,6 @@ My journey within the field of system analysis and analytics has led me to disco
 <br>
 
 
-<h2>🤳Contact me</h2>
+<h2>🤳Contact Me</h2>
 Email: <a href="mailto:chaanyahlaborde@gmail.com" target="_blank">chaanyahlaborde@gmail.com</a> <br>
 Phone: 917-863-8841
