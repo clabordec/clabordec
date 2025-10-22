@@ -1,7 +1,7 @@
 <h1>Hi, I'm Chaanyah, an <a href="https://linkedin.com/in/claborde/">IT Professional</a>☺</h1>
 
 <h2>👋 Introduction</h2>
-Systems Analyst with 7+ years of experience in requirements gathering, software deployment, user management, system integration, and process improvement, delivering efficient and scalable technology solutions.
+IT Professonal with 7+ years of experience in service level agreement management, software deployment, user management, customer escalation resolution, system integration, and process improvement, delivering efficient and scalable technology solutions.
 
 <br><br>
 
