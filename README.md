@@ -12,9 +12,8 @@ My journey within the field of system analysis and analytics has led me to disco
   - Helpdesk Support Analyst
   - Technical Support Analyst
   - Technical Support Engineer
-  - Desktop Support Technician
   - Desktop Support Engineer
-  - Service Desk Analyst
+  - System Administrator
 
 <br>
 
