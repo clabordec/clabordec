@@ -19,7 +19,7 @@ My journey within the field of system analysis and analytics has led me to disco
 
 - <b>[Active Directory Engineering](https://github.com/clabordec/active-directory-engineering)</b>
 - <b>[Active Directory Breach Simulation & Detection System](https://github.com/clabordec/active-directory-breach-simulation-and-detection-system)</b>
-- <b>[Job Skill Share](https://github.com/clabordec/jobskillshare)</b>
+- <b>[KodeKloud](https://github.com/clabordec/jobskillshare)</b>
 
 
 <br>
