@@ -1,4 +1,4 @@
-<h1>Hi, I'm Chaanyah, an <a href="https://linkedin.com/in/claborde/">IT Professional</a>☺</h1>
+<h1>Hi, I'm Chaanyah (Kahn-Yuh), an <a href="https://linkedin.com/in/claborde/">IT Professional</a>☺</h1>
 
 <h2>👋 Introduction</h2>
 IT Professonal with 7+ years of experience in service level agreement management, software deployment, user management, customer escalation resolution, computer and hardware maintenance, operating systems, networking, system integration, and process improvement, delivering efficient and scalable technology solutions.
