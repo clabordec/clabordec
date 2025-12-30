@@ -31,7 +31,7 @@ My journey within the field of system analysis and analytics has led me to disco
 | Windows Server 2016 Setup                     | <a href="https://github.com/clabordec/windows-server-2016">Windows Server 2016</a>|
 | Windows Server 2019 Setup                     | <a href="https://github.com/clabordec/windows-server-2019">Windows Server 2019</a>|
 | Windows Server 2022 Setup                     | <a href="https://github.com/clabordec/windows-server-2022">Windows Server 2022</a>|
-| Active Directory User & Groups Creation       | <a href="https://github.com/clabordec/user-security-group-creation">User & Group Creation</a>|
+| Active Directory User & Groups Creation       | <a href="https://github.com/clabordec/user-security-group-creation">User & Groups Creation</a>|
 | Network Traffic within Microsoft Azure        | <a href="https://github.com/clabordec/azure-network-protocols">Azure Network Security Groups(NSGs)</a>|
 | Microsoft Azure Virtual Machines              | <a href="https://github.com/clabordec/azure-virtual-machines">Azure VMs</a>|
 | Installing osTicket Ticketing System          | <a href="https://github.com/clabordec/osticket-prereqs">Installing osTicket</a>|
