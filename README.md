@@ -29,7 +29,7 @@ My journey within the field of system analysis and analytics has led me to disco
 <br>
 
 - <b>SQL</b>
-  - <b>[Feline Foods](https://github.com/clabordec/jobskillshare)</b>
+  - <b>[Feline Foods](https://github.com/clabordec/feline-foods)</b>
 
 
 <br>
