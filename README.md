@@ -17,7 +17,7 @@ My journey within the field of system analysis and analytics has led me to disco
 
 <h2>👨‍💻 Information Technology Projects</h2>
 
-Active Directory
+<p>Active Directory</p>
 - <b>[Active Directory Engineering](https://github.com/clabordec/active-directory-engineering)</b>
 - <b>[Active Directory Breach Simulation & Detection System](https://github.com/clabordec/active-directory-breach-simulation-and-detection-system)</b>
 
