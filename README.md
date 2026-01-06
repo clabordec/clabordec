@@ -1,4 +1,4 @@
-<h1>Hi, I'm Chaanyah (Kahn-Yuh), an <a href="https://linkedin.com/in/claborde/">IT Professional</a>☺</h1>
+<h1>Hi, I'm Chaanyah (Kahn-Yuh), an <a href="https://linkedin.com/in/claborde/">Technical Support Engineer</a>☺</h1>
 
 <h2>👋 Introduction</h2>
 IT Professonal with 7+ years of experience in service level agreement management, software deployment, user management, customer escalation resolution, computer and hardware maintenance, operating systems, networking, system integration, process improvement, cloud computing and delivering efficient and scalable technology solutions.
@@ -8,7 +8,6 @@ IT Professonal with 7+ years of experience in service level agreement management
 <h2>💼 Objective</h2>
 My journey within the field of system analysis and analytics has led me to discover a new passion for technical support, and now I am eager to expose my skill set, and showcase the knowlegde that I have gained within my 7+ years of being in IT. Specifically aiming for the following roles: <br><br>
   
-  - Technical Support Engineer
   - Systems Administrator
   - Systems Engineer
   - DevOps Engineer
