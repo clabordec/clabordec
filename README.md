@@ -46,6 +46,7 @@ My journey within the field of system analysis and analytics has led me to disco
 | Microsoft Azure Virtual Machines              | <a href="https://github.com/clabordec/azure-virtual-machines">Azure VMs</a>|
 | Installing osTicket Ticketing System          | <a href="https://github.com/clabordec/osticket-prereqs">Installing osTicket</a>|
 | Configuring osTicket Ticketing System         | <a href="https://github.com/clabordec/post-install-config">Configuring osTicket</a>|
+| Amazon Simple Storage Service                 | <a href="https://github.com/clabordec/post-install-config">Amazon S3</a>|
 
 <br>
 
