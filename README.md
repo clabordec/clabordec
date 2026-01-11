@@ -44,6 +44,10 @@ My journey within the field of system analysis and analytics has led me to disco
 | Network Traffic within Microsoft Azure        | <a href="https://github.com/clabordec/azure-network-protocols">Azure Network Security Groups(NSGs)</a>|
 | Microsoft Azure Virtual Machines              | <a href="https://github.com/clabordec/azure-virtual-machines">Azure VMs</a>|
 | Amazon Simple Storage Service                 | <a href="https://github.com/clabordec/amazon-s3">Amazon S3</a>|
+| Capturing Data                                | <a href="https://github.com/clabordec/amazon-s3">Ingestion</a>|
+| Data Safekeeping                              | <a href="https://github.com/clabordec/amazon-s3">Data Storage</a>|
+| Data cleaning, reshaping, and validating      | <a href="https://github.com/clabordec/amazon-s3">Transformation</a>|
+| Creating a pipeline                           | <a href="https://github.com/clabordec/amazon-s3">Automation</a>|
 | Installing osTicket Ticketing System          | <a href="https://github.com/clabordec/osticket-prereqs">Installing osTicket</a>|
 | Configuring osTicket Ticketing System         | <a href="https://github.com/clabordec/post-install-config">Configuring osTicket</a>|
 
