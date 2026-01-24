@@ -10,7 +10,7 @@ My journey within the field of system analysis and analytics has led me to disco
   
   - Systems Administrator
   - Systems Engineer
-  - DevOps Engineer
+  - Cloud Engineer
 
 <br>
 
