@@ -22,13 +22,13 @@ My journey within the field of system analysis and analytics has led me to disco
 
 <br>
 
-- <b>Linux</b>
-  - <b>[KodeKloud](https://github.com/clabordec/jobskillshare)</b>
+- <b>Main Project</b>
+  - <b>[Project Name](https://github.com/clabordec/jobskillshare)</b>
 
 <br>
 
-- <b>SQL</b>
-  - <b>[Feline Gaming](https://github.com/clabordec/feline-foods)</b>
+- <b>Main Projects</b>
+  - <b>[Project Name](https://github.com/clabordec/feline-foods)</b>
 
 
 <br>
