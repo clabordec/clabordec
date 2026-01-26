@@ -44,7 +44,7 @@ My journey within the field of system analysis and analytics has led me to disco
 | Network Traffic within Microsoft Azure        | <a href="https://github.com/clabordec/azure-network-protocols">Azure Network Security Groups(NSGs)</a>|
 | Microsoft Azure Virtual Machines              | <a href="https://github.com/clabordec/azure-virtual-machines">Azure VMs</a>|
 | Amazon Simple Storage Service                 | <a href="https://github.com/clabordec/amazon-s3">Amazon S3</a>|
-| Configuring Domain Name Systems               | <a href="https://github.com/clabordec/configuring-dns">DNS</a>|
+| Installing Active Directory in Azure VMs      | <a href="https://github.com/clabordec/preparing-ad">Azure Active Directory (Microsoft Entra ID)</a>|
 | Installing osTicket Ticketing System          | <a href="https://github.com/clabordec/osticket-prereqs">Installing osTicket</a>|
 | Configuring osTicket Ticketing System         | <a href="https://github.com/clabordec/post-install-config">Configuring osTicket</a>|
 
