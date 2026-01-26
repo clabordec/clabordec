@@ -28,7 +28,7 @@ My journey within the field of system analysis and analytics has led me to disco
 <br>
 
 - <b>Main Projects</b>
-  - <b>[Project Name](https://github.com/clabordec/feline-foods)</b>
+  - <b>[Project Name]()</b>
 
 
 <br>
