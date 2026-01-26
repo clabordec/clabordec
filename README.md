@@ -8,9 +8,9 @@ IT Professonal with 7+ years of experience in service level agreement management
 <h2>💼 Objective</h2>
 My journey within the field of system analysis and analytics has led me to discover a new passion for technical support, and now I am eager to expose my skill set, and showcase the knowlegde that I have gained within my 7+ years of being in IT. Specifically aiming for the following roles: <br><br>
   
-  - Systems Administrator
-  - Systems Engineer
-  - Cloud Engineer
+  - SOC Analyst
+  - Data Security Analyst
+  - Cybersecurity Engineer
 
 <br>
 
