@@ -10,7 +10,7 @@ My journey within the field of system analysis and analytics has led me to disco
   
   - Technical Support Engineer
   - DevOps Engineer
-  - Cybersecurity Engineer
+  - Cloud Engineer
 
 <br>
 
