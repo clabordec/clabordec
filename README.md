@@ -9,7 +9,7 @@ IT Professonal with 7+ years of experience in service level agreement management
 My journey within the field of system analysis and analytics has led me to discover a new passion for data security and integrity, and now I am eager to expose my skill set, and showcase the knowlegde that I have gained within my 7+ years of being in IT. Specifically aiming for the following roles: <br><br>
   
   - SOC Analyst Tier 2 & 3
-  - DevOps Engineer
+  - Cybersecurity Analyst
   - Cloud Engineer
 
 <br>
