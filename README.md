@@ -10,7 +10,7 @@ My journey within the field of system analysis and analytics has led me to disco
   
   - SOC Analyst Tier 2 & 3
   - Cybersecurity Analyst
-  - Cloud Engineer
+  - Data Security Analyst
 
 <br>
 
