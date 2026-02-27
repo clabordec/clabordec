@@ -10,7 +10,7 @@ My journey within the field of system analysis and analytics has led me to disco
   
   - Technical Support Analyst
   - IT Support Engineer
-  - System Engineer
+  - Systems Engineer
 
 <br>
 
