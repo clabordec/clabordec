@@ -40,7 +40,7 @@ My journey within the field of system analysis and analytics has led me to disco
 | Windows Server 2016 Installation & Setup      | <a href="https://github.com/clabordec/windows-server-2016">Windows Server 2016</a>|
 | Windows Server 2019 Installation & Setup      | <a href="https://github.com/clabordec/windows-server-2019">Windows Server 2019</a>|
 | Windows Server 2022 Installation & Setup      | <a href="https://github.com/clabordec/windows-server-2022">Windows Server 2022</a>|
-| Windows Server 11 Installation & Setup        | <a href="https://github.com/clabordec/windows-11-installation">Windows Server 2022</a>|
+| Windows Server 11 Installation & Setup        | <a href="https://github.com/clabordec/windows-11-installation">Windows 11 Pro</a>|
 | Active Directory User & Groups Creation       | <a href="https://github.com/clabordec/user-security-group-creation">User & Groups Creation</a>|
 | Installing Active Directory in Azure VMs      | <a href="https://github.com/clabordec/configure-ad">Azure Active Directory (Microsoft Entra ID)</a>|
 | Network Traffic within Microsoft Azure        | <a href="https://github.com/clabordec/azure-network-protocols">Azure Network Security Groups(NSGs)</a>|
