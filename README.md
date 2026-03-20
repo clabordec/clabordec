@@ -60,13 +60,3 @@ I’m a **Data Engineer with 7+ years of hands-on experience in data analysis, d
 * LinkedIn: [LinkedIn](https://www.linkedin.com/in/claborde/)
 * Portfolio: [GitHub](https://github.com/clabordec)
 * Email: [chaanyahlaborde@gmail.com](mailto:chaanyahlaborde@gmail.com)
-
----
-
-## Suggested Repo Add-ons to Make This Stand Out
-
-* Add a banner image at the top
-* Include GitHub stats badges
-* Pin 4–6 strong projects
-* Add architecture diagrams for pipeline projects
-* Showcase one flagship end-to-end data project
