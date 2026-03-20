@@ -74,9 +74,9 @@ I believe strong data systems should be invisible when they work — fast, relia
 
 ## Connect
 
-* LinkedIn: (https://www.linkedin.com/in/claborde/)[claborde]
-* Portfolio: [Add your website]
-* Email: [Add your email]
+* LinkedIn: [LinkedIn](https://www.linkedin.com/in/claborde/)
+* Portfolio: [GitHub](https://github.com/clabordec)
+* Email: [chaanyahlaborde@gmail.com](mailto:chaanyahlaborde@gmail.com)
 
 ---
 
