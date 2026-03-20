@@ -20,19 +20,28 @@ I’m a **Data Engineer with 7+ years of hands-on experience in data analysis, d
 ## Core Stack
 
 **Languages & Querying**
-Python • SQL • Bash
+- Python
+- Java
+- Bash
 
 **Data Engineering**
-Apache Airflow • dbt • Spark • Kafka
+- Apache Airflow
+- dbt
+- Spark
+- Kafka
 
 **Cloud Platforms**
-AWS • Azure • GCP
+- AWS
+- Azure
 
 **Databases**
-PostgreSQL • Snowflake • BigQuery • Redshift
+- PostgreSQL
+- Microsoft SQL Server
+- MySQL
+- Redshift
 
-**Visualization & Analytics**
-Power BI • Tableau • Pandas
+**Data Visualization**
+- Tableau
 
 ---
 
@@ -65,7 +74,7 @@ I believe strong data systems should be invisible when they work — fast, relia
 
 ## Connect
 
-* LinkedIn: [Add your LinkedIn]
+* LinkedIn: (https://www.linkedin.com/in/claborde/)[claborde]
 * Portfolio: [Add your website]
 * Email: [Add your email]
 
