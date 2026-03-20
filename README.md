@@ -45,23 +45,6 @@ I’m a **Data Engineer with 7+ years of hands-on experience in data analysis, d
 
 ---
 
-## Featured Focus Areas
-
-* Real-time data ingestion pipelines
-* Data warehouse modeling
-* Analytics engineering best practices
-* Performance tuning for enterprise reporting
-* Data governance and reliability
-
----
-
-## Professional Philosophy
-
-> Clean pipelines. Reliable data. Decisions backed by truth.
-
-I believe strong data systems should be invisible when they work — fast, reliable, and trusted across teams.
-
----
 
 ## Current Interests
 
