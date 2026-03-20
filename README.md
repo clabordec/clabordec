@@ -1,59 +1,80 @@
-<h1>Hi, I'm Chaanyah (Kahn-Yuh), an <a href="https://linkedin.com/in/claborde/">Data Professional</a>☺</h1>
+# Hi there, I'm Chaanyah Laborde, an <a href = 'https://www.linkedin.com/in/claborde/'>Data Professional</a> 👋
 
-<h2>👋 Introduction</h2>
-IT Professonal with 7+ years of experience in service level agreement management, software deployment, user management, customer escalation resolution, computer and hardware maintenance, operating systems, networking, system integration, security compliance, cloud computing and delivering efficient and scalable technology solutions.
+## Data Engineer | Analytics Strategist | Data Infrastructure Builder
 
-<br><br>
+I’m a **Data Engineer with 7+ years of hands-on experience in data analysis, data transformation, and scalable data solutions**. My work focuses on designing reliable pipelines, optimizing data workflows, and turning complex datasets into actionable business intelligence.
 
-<h2>💼 Objective</h2>
-My journey within the field of system analysis and analytics has led me to discover a new passion for data security and integrity, and now I am eager to expose my skill set, and showcase the knowlegde that I have gained within my 7+ years of being in IT. Specifically aiming for the following roles: <br><br>
-  
-  - Technical Support Analyst
-  - IT Support Engineer
-  - Systems Engineer
+---
 
-<br>
+## What I Do
 
-<h2>👨‍💻 Cybersecurity Projects</h2>
+* Build and maintain scalable ETL / ELT pipelines
+* Design cloud-based data architectures
+* Optimize SQL performance for large datasets
+* Automate reporting and analytics workflows
+* Develop data quality monitoring systems
+* Support machine learning and analytics teams with production-ready datasets
 
-- <b>Active Directory</b>
-  - <b>[Active Directory Engineering](https://github.com/clabordec/active-directory-engineering)</b>
-  - <b>[Active Directory Breach Simulation & Detection System](https://github.com/clabordec/active-directory-breach-simulation-and-detection-system)</b>
+---
 
-<br>
+## Core Stack
 
-- <b>Main Project</b>
-  - <b>[Project Name]()</b>
+**Languages & Querying**
+Python • SQL • Bash
 
-<br>
+**Data Engineering**
+Apache Airflow • dbt • Spark • Kafka
 
-- <b>Main Projects</b>
-  - <b>[Project Name]()</b>
+**Cloud Platforms**
+AWS • Azure • GCP
 
+**Databases**
+PostgreSQL • Snowflake • BigQuery • Redshift
 
-<br>
+**Visualization & Analytics**
+Power BI • Tableau • Pandas
 
-<h2>🦾 Skills</h2>
+---
 
-| Skills                                        | Associated Projects        |
-|-----------------------------------------------|----------------------------|
-| Windows Server 2016 Installation & Setup      | <a href="https://github.com/clabordec/windows-server-2016">Windows Server 2016</a>|
-| Windows Server 2019 Installation & Setup      | <a href="https://github.com/clabordec/windows-server-2019">Windows Server 2019</a>|
-| Windows Server 2022 Installation & Setup      | <a href="https://github.com/clabordec/windows-server-2022">Windows Server 2022</a>|
-| Windows Server 11 Installation & Setup        | <a href="https://github.com/clabordec/windows-11-installation">Windows 11 Pro</a>|
-| Active Directory User & Groups Creation       | <a href="https://github.com/clabordec/user-security-group-creation">User & Groups Creation</a>|
-| Installing Active Directory in Azure VMs      | <a href="https://github.com/clabordec/configure-ad">Azure Active Directory (Microsoft Entra ID)</a>|
-| Network Traffic within Microsoft Azure        | <a href="https://github.com/clabordec/azure-network-protocols">Azure Network Security Groups(NSGs)</a>|
-| Microsoft Azure Virtual Machines              | <a href="https://github.com/clabordec/azure-virtual-machines">Azure VMs</a>|
-| Amazon Simple Storage Service                 | <a href="https://github.com/clabordec/amazon-s3">Amazon S3</a>|
-| Configuring the Domain Name System            | <a href="https://github.com/clabordec/configuring-dns">Domain Name System (DNS)</a>|
-| Deploying & Configuring the Dynamic Host Configuration Protocal            | <a href="https://github.com/clabordec/configuring-dhcp">Dynamic Host Configuration Protocal (DHCP)</a>|
-| Installing osTicket Ticketing System          | <a href="https://github.com/clabordec/osticket-prereqs">Installing osTicket</a>|
-| Configuring osTicket Ticketing System         | <a href="https://github.com/clabordec/post-install-config">Configuring osTicket</a>|
+## Featured Focus Areas
 
-<br>
+* Real-time data ingestion pipelines
+* Data warehouse modeling
+* Analytics engineering best practices
+* Performance tuning for enterprise reporting
+* Data governance and reliability
 
+---
 
-<h2>🤳Contact Me</h2>
-Email: <a href="mailto:chaanyahlaborde@gmail.com" target="_blank">chaanyahlaborde@gmail.com</a> <br>
-Phone: 917-863-8841
+## Professional Philosophy
+
+> Clean pipelines. Reliable data. Decisions backed by truth.
+
+I believe strong data systems should be invisible when they work — fast, reliable, and trusted across teams.
+
+---
+
+## Current Interests
+
+* Modern data stack architecture
+* Data platform automation
+* Cost-efficient cloud pipelines
+* AI-ready data infrastructure
+
+---
+
+## Connect
+
+* LinkedIn: [Add your LinkedIn]
+* Portfolio: [Add your website]
+* Email: [Add your email]
+
+---
+
+## Suggested Repo Add-ons to Make This Stand Out
+
+* Add a banner image at the top
+* Include GitHub stats badges
+* Pin 4–6 strong projects
+* Add architecture diagrams for pipeline projects
+* Showcase one flagship end-to-end data project
