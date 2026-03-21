@@ -2,7 +2,7 @@
 
 ## Data Engineer | Analytics Strategist | Data Infrastructure Builder
 
-I’m a **Data Engineer with 7+ years of hands-on experience in data analysis, data transformation, and scalable data solutions**. My work focuses on designing reliable pipelines, optimizing data workflows, and turning complex datasets into actionable business intelligence.
+I’m a **Data Analyst with 7+ years of hands-on experience in data analysis, data transformation, and scalable data solutions**. My work focuses on designing reliable pipelines, optimizing data workflows, and turning complex datasets into actionable business intelligence.
 
 ---
 
