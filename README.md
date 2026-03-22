@@ -117,11 +117,3 @@ I am currently focused on expanding deeper into:
 
 * LinkedIn: [www.linkedin.com/in/claborde](http://www.linkedin.com/in/claborde)
 * Email: [chaanyahlaborde@gmail.com](mailto:chaanyahlaborde@gmail.com)
-
----
-
-## Professional Philosophy
-
-> Reliable data systems create trusted decisions.
-
-My goal is to bridge production systems, cloud platforms, and data reliability to support high-quality enterprise operations.
