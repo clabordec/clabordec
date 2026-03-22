@@ -2,7 +2,7 @@
 
 ## Data Engineer | Systems Analyst | Cloud Data Operations
 
-I am a **Data Engineer and Systems Analyst with 7+ years of experience supporting enterprise data operations, production systems, and cloud-based integrations**. My background combines **production troubleshooting, data validation, ETL support, cloud infrastructure, and operational reliability** across enterprise environments.
+I am a Systems Analyst with 7+ years of experience supporting enterprise data operations, production systems, and cloud-based integrations. My background combines production troubleshooting, data validation, ETL support, cloud infrastructure, and operational reliability across enterprise environments.
 
 I specialize in building trust in data by ensuring pipelines run correctly, integrations remain stable, and production systems deliver reliable outputs for business-critical operations.
 
