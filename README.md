@@ -1,90 +1,126 @@
 # Hi, I'm Chaanyah Laborde 👋
 
-## Data Engineer | Systems Analyst | Cloud Data Operations
+## DevOps Engineer | Systems Analyst | Cloud Infrastructure Support
 
-I am a Systems Analyst with 7+ years of experience supporting enterprise data operations, production systems, and cloud-based integrations. My background combines production troubleshooting, data validation, ETL support, cloud infrastructure, and operational reliability across enterprise environments.
+I am a **DevOps-focused Systems Analyst with 7+ years of experience supporting enterprise infrastructure, production systems, cloud operations, and platform reliability**.
 
-I specialize in building trust in data by ensuring pipelines run correctly, integrations remain stable, and production systems deliver reliable outputs for business-critical operations.
+My background combines **Linux administration, cloud troubleshooting, production support, automation exposure, network diagnostics, and operational incident management** across enterprise environments.
+
+I focus on improving **system stability, deployment reliability, environment consistency, and operational efficiency** through infrastructure-minded problem solving.
 
 ---
 
 ## Core Strengths
 
-* Production data validation using SQL
-* ETL pipeline support and monitoring
-* AWS S3 file validation and cloud data operations
-* AWS Glue job support and troubleshooting
-* API integration diagnostics
-* SFTP / FTP transfer monitoring
-* Incident management and root cause analysis
-* Data quality assurance in production systems
-* Cross-functional collaboration with engineering and DevOps
+* Linux systems administration
+* AWS production support
+* Infrastructure troubleshooting
+* Incident response and root cause analysis
+* Network diagnostics (DNS / DHCP / VPN)
+* File transfer reliability (SFTP / FTP)
+* SQL-based production validation
+* System monitoring and escalation workflows
+* Cross-functional support with engineering and DevOps teams
 
 ---
 
 ## Technical Stack
 
-### Languages & Querying
-
-SQL • Python • Bash
-
-### Cloud & Data Platforms
+### Cloud & Infrastructure
 
 AWS S3 • AWS Glue • Azure Fundamentals
 
-### Data Operations
+### Operating Systems
 
-ETL Monitoring • Data Validation • File Transfer Automation • API Support
+Linux • Windows Server
 
-### Systems & Monitoring
+### Networking
 
-ServiceNow • Log Analysis • Incident Resolution • SOC2 Operational Validation
+DNS • DHCP • VPN • TCP/IP • SFTP • FTP
 
-### Infrastructure
+### Systems Administration
 
-Linux • Active Directory • SCCM • VPN • DNS • DHCP
+Active Directory • SCCM • JAMF
+
+### Monitoring & Operations
+
+ServiceNow • Log Analysis • Incident Management
+
+### Scripting & Automation
+
+Bash • Python • SQL
 
 ---
 
 ## Featured Projects
 
-### Production Data Validation Framework
+### Infrastructure Incident Response Playbook
 
-Built SQL-driven validation processes to detect duplicate records, malformed payloads, and production data inconsistencies before downstream failures.
+Built a structured troubleshooting framework for diagnosing recurring production incidents across enterprise systems.
 
-**Stack:** SQL, AWS S3, Production Logs
+**Stack:** Linux, Logs, ServiceNow
 
----
+**Highlights:**
 
-### AWS ETL Operations Support
-
-Supported AWS Glue workflows responsible for moving and preparing production data across connected systems.
-
-**Stack:** AWS Glue, AWS S3
+* Documented root cause patterns
+* Improved escalation accuracy
+* Reduced repeated operational failures
 
 ---
 
-### Enterprise File Transfer Monitoring
+### AWS File Reliability Monitoring
 
-Monitored and resolved failed SFTP / FTP transfers impacting partner data delivery.
+Monitored cloud file delivery pipelines and validated successful transfers across production environments.
 
-**Stack:** SFTP, FTP, SQL, Log Review
+**Stack:** AWS S3, AWS Glue
 
----
+**Highlights:**
 
-### API Integration Troubleshooting
-
-Investigated production API endpoint failures affecting data movement between systems.
-
-**Stack:** API Diagnostics, Logs, ServiceNow
+* Verified successful file delivery
+* Resolved failed production transfers
+* Improved delivery consistency
 
 ---
 
-### SOC2 Operational Validation Controls
+### Secure Transfer Operations Lab
 
-Executed validation procedures supporting production audit requirements.
+Created repeatable workflows for diagnosing SFTP / FTP failures affecting external integrations.
 
-**Stack:** SQL, Logs, Operational Controls
+**Stack:** SFTP, FTP, Linux
+
+**Highlights:**
+
+* Restored failed connections
+* Investigated transfer interruptions
+* Supported partner data delivery
+
+---
+
+### Enterprise Endpoint Automation Support
+
+Managed large-scale software deployment and endpoint readiness across enterprise devices.
+
+**Stack:** SCCM, Active Directory
+
+**Highlights:**
+
+* Supported secure deployments
+* Maintained patch compliance
+* Reduced endpoint configuration issues
+
+---
+
+### Network Troubleshooting Toolkit
+
+Built repeatable procedures for resolving DNS, DHCP, and VPN connectivity issues.
+
+**Stack:** DNS, DHCP, VPN
+
+**Highlights:**
+
+* Diagnosed connectivity failures
+* Restored remote access reliability
+* Improved support turnaround
 
 ---
 
@@ -103,13 +139,14 @@ Executed validation procedures supporting production audit requirements.
 
 ## Professional Focus
 
-I am currently focused on expanding deeper into:
+Currently expanding deeper into:
 
-* Modern data engineering architecture
-* Cloud-native data pipelines
-* Data reliability engineering
-* Automation of production data operations
-* Scalable warehouse support
+* CI/CD pipelines
+* Infrastructure as Code
+* Kubernetes
+* Docker
+* Cloud automation
+* Platform reliability engineering
 
 ---
 
@@ -117,3 +154,11 @@ I am currently focused on expanding deeper into:
 
 * LinkedIn: [www.linkedin.com/in/claborde](http://www.linkedin.com/in/claborde)
 * Email: [chaanyahlaborde@gmail.com](mailto:chaanyahlaborde@gmail.com)
+
+---
+
+## Professional Philosophy
+
+> Stable systems create reliable delivery.
+
+My goal is to bridge infrastructure, automation, and operational reliability to support scalable engineering environments.
