@@ -154,11 +154,3 @@ Currently expanding deeper into:
 
 * LinkedIn: [www.linkedin.com/in/claborde](http://www.linkedin.com/in/claborde)
 * Email: [chaanyahlaborde@gmail.com](mailto:chaanyahlaborde@gmail.com)
-
----
-
-## Professional Philosophy
-
-> Stable systems create reliable delivery.
-
-My goal is to bridge infrastructure, automation, and operational reliability to support scalable engineering environments.
