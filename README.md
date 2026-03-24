@@ -137,19 +137,6 @@ Built repeatable procedures for resolving DNS, DHCP, and VPN connectivity issues
 
 ---
 
-## Professional Focus
-
-Currently expanding deeper into:
-
-* CI/CD pipelines
-* Infrastructure as Code
-* Kubernetes
-* Docker
-* Cloud automation
-* Platform reliability engineering
-
----
-
 ## Connect
 
 * LinkedIn: [www.linkedin.com/in/claborde](http://www.linkedin.com/in/claborde)
