@@ -124,19 +124,6 @@ Built repeatable procedures for resolving DNS, DHCP, and VPN connectivity issues
 
 ---
 
-## Certifications
-
-* CompTIA A+
-* CompTIA Network+
-* CompTIA Security+
-* RHCSA
-* RHCE
-* CCNA
-* Azure Fundamentals (AZ-900)
-* Azure Administrator Associate (AZ-104)
-
----
-
 ## Connect
 
 * LinkedIn: [www.linkedin.com/in/claborde](http://www.linkedin.com/in/claborde)
