@@ -1,6 +1,6 @@
 # Hi, I'm Chaanyah Laborde 👋
 
-## DevOps Engineer | Systems Analyst | Cloud Infrastructure Support
+## System Administrator | Systems Analyst | Cloud Infrastructure Support
 
 I am a **DevOps-focused Systems Analyst with 7+ years of experience supporting enterprise infrastructure, production systems, cloud operations, and platform reliability**.
 
