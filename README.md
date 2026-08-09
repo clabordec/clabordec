@@ -12,6 +12,7 @@ I focus on improving **system stability, deployment reliability, environment con
 
 ## Core Strengths
 
+* Windows systems administration
 * Linux systems administration
 * AWS production support
 * Infrastructure troubleshooting
