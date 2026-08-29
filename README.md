@@ -1,210 +1,462 @@
-# Hi, I'm Chaanyah Laborde 👋
+<div align="center">
 
-### Data Engineer | ETL/ELT Pipelines | SQL • Python • Spark • Databricks • Airflow
+# 👋 Hi, I'm Chaanyah Laborde
 
-I build **reliable, scalable data pipelines** that turn raw data into trusted, production-ready datasets.
+### 🐧 Linux Engineer • ☁️ Cloud Engineer • ⚙️ Infrastructure Engineer • 🔧 Operations Engineer
 
-With **7+ years of enterprise technology experience**, my background bridges **data engineering, systems engineering, and production operations**. I bring a production-first mindset to data engineering—focusing not only on moving data, but also on **data quality, performance, observability, reliability, and troubleshooting**.
+**Linux Administration | AWS | Azure | Ansible | Kubernetes | Docker | Python | Infrastructure Automation**
 
-My experience includes building and supporting data workflows across **APIs, relational databases, flat files, cloud storage, and distributed processing platforms** using technologies such as **Python, SQL, Pandas, PySpark, Azure Databricks, AWS Glue, Airflow, and Docker**.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chaanyah_Laborde-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/claborde/)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:chaanyahlaborde@gmail.com)
+
+</div>
 
 ---
 
-## ⚡ Engineering Impact
+## 👨‍💻 About Me
+
+I'm an infrastructure and operations professional with **8+ years of enterprise IT experience** supporting **Linux, Windows, cloud, virtualization, networking, and production environments**.
+
+My focus is building and operating infrastructure that is:
 
 ```text
-85%  ↑ Data Accuracy
-44%  ↓ Dataset Access Time
-72%  ↑ Production Resolution Efficiency
-20+    Advanced SQL Integrations
+Reliable  •  Automated  •  Secure  •  Observable  •  Scalable
 ```
 
-* 📊 Improved **data accuracy by 85%** through advanced SQL integrations across enterprise WMS systems.
-* ⚙️ Improved **dataset access time by 44%** with Python-based API and database ingestion.
-* 🔍 Increased **production issue resolution efficiency by 72%** through SQL-driven root cause investigation.
-* 🚀 Tuned **Spark partitions and joins in Azure Databricks** to improve distributed processing performance.
-* 🧹 Built **Python + Pandas data-cleaning workflows** to prevent inconsistent source data from reaching downstream systems.
-* ☁️ Developed **AWS Glue ETL jobs** to clean, transform, and standardize data for analytics and reporting.
+I specialize in **Red Hat Enterprise Linux**, cloud infrastructure, infrastructure automation, production operations, and troubleshooting.
+
+My experience spans **AWS EC2, IAM, Azure, RHEL, Ansible, Kubernetes, Docker, VMware, Hyper-V, Prometheus, Python, PowerShell, networking, security hardening, CI/CD, and disaster recovery**.
+
+What differentiates my approach is a strong **operations mindset**.
+
+I don't just think about whether infrastructure can be deployed.
+
+I think about whether it can be **monitored, secured, recovered, automated, scaled, and supported in production.**
 
 ---
 
-## 🧰 Data Engineering Toolkit
+# 🧰 Infrastructure Engineering Stack
 
-### Languages & Data Processing
+### 🐧 Linux & Operating Systems
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge\&logo=apachespark\&logoColor=white)
+![Red Hat](https://img.shields.io/badge/RHEL-EE0000?style=for-the-badge\&logo=redhat\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge\&logo=windows\&logoColor=white)
 
-### Data Engineering & Orchestration
+`RHEL 8/9` • `Linux Administration` • `SELinux` • `SSH` • `IPTables` • `LVM` • `System Hardening`
 
-![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge\&logo=apacheairflow\&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge\&logo=databricks\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+---
 
-### Cloud & Infrastructure
+### ☁️ Cloud Infrastructure
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonwebservices\&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
 
-**Also working with:** PySpark • AWS Glue • AWS S3 • ETL/ELT • APIs • Bash • Data Integration • Data Quality • Data Governance • Observability & Monitoring
+`EC2` • `IAM` • `Azure VMs` • `Microsoft Entra ID` • `Azure Site Recovery` • `Cloud Security` • `Cloud Operations`
 
 ---
 
-## 🏗️ What I Build
+### ⚙️ Automation & Configuration Management
 
-My projects focus on solving the problems data engineers encounter in real production environments:
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge\&logo=ansible\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge\&logo=powershell\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 
-**Ingestion → Transformation → Data Quality → Orchestration → Storage → Monitoring**
+`Ansible Playbooks` • `Python Automation` • `PowerShell` • `Git` • `CI/CD`
+
+---
+
+### 📦 Containers & Orchestration
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
+
+`Docker` • `Multi-Stage Builds` • `Kubernetes Pods` • `Nodes` • `Workloads` • `Container Operations`
+
+---
+
+### 📊 Monitoring & Operations
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge\&logo=prometheus\&logoColor=white)
+
+`Prometheus` • `Log Analysis` • `Incident Response` • `Root Cause Analysis` • `Production Troubleshooting`
+
+---
+
+### 🖥️ Virtualization
+
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge\&logo=vmware\&logoColor=white)
+
+`VMware vSphere` • `ESXi` • `DRS` • `Hyper-V` • `VM Administration` • `Resource Optimization`
+
+---
+
+### 🌐 Networking & Security
+
+`DNS` • `TCP/IP` • `LAN/WAN` • `Routing` • `Firewalls` • `IPTables` • `SSH` • `SELinux` • `IAM` • `GPO`
+
+---
+
+# 🚀 What I Do
 
 ```text
-       ┌───────────────┐
-       │  APIs / Files │
-       │   Databases   │
-       └───────┬───────┘
-               │
-               ▼
-       ┌───────────────┐
-       │    Python     │
-       │ Pandas/PySpark│
-       └───────┬───────┘
-               │
-               ▼
-       ┌───────────────┐
-       │ Transformation│
-       │ & Data Quality│
-       └───────┬───────┘
-               │
-               ▼
-       ┌───────────────┐
-       │    Airflow    │
-       │ Orchestration │
-       └───────┬───────┘
-               │
-               ▼
-       ┌───────────────┐
-       │ SQL / Cloud   │
-       │ Data Platform │
-       └───────────────┘
+                 ┌──────────────────────┐
+                 │   Cloud Platforms    │
+                 │    AWS  •  Azure     │
+                 └──────────┬───────────┘
+                            │
+                            ▼
+                 ┌──────────────────────┐
+                 │ Linux Infrastructure │
+                 │    RHEL 8 / RHEL 9   │
+                 └──────────┬───────────┘
+                            │
+             ┌──────────────┼──────────────┐
+             │              │              │
+             ▼              ▼              ▼
+      ┌────────────┐ ┌────────────┐ ┌────────────┐
+      │  Ansible   │ │   Docker   │ │ Kubernetes │
+      │ Automation │ │ Containers │ │Orchestration│
+      └─────┬──────┘ └──────┬─────┘ └─────┬──────┘
+            │               │              │
+            └───────────────┼──────────────┘
+                            ▼
+                 ┌──────────────────────┐
+                 │ Monitoring & Ops     │
+                 │ Prometheus • Python  │
+                 └──────────┬───────────┘
+                            │
+                            ▼
+                 ┌──────────────────────┐
+                 │ Reliable Production  │
+                 │    Infrastructure    │
+                 └──────────────────────┘
 ```
 
 ---
 
-# 🚀 Featured Data Engineering Projects
+# ⚡ Infrastructure Engineering Highlights
 
-## ⚙️ Automated ELT Data Pipeline
+### 🐧 Linux Automation
 
-> **Python • PostgreSQL • Apache Airflow • Docker**
+Designed **Ansible playbooks** to automate Linux provisioning and configuration across cloud environments, reducing manual server build effort and configuration errors.
 
-Built a containerized **ELT data pipeline** that automates data ingestion, transformation, loading, and workflow orchestration.
+### ☁️ AWS Infrastructure
 
-### Engineering Focus
+Administered **AWS EC2 infrastructure supporting RHEL 9 and Windows Server 2022 workloads**, helping maintain availability of critical applications while reducing reliance on physical infrastructure.
 
-* Automated repeatable ELT workflows with **Apache Airflow**
-* Built ingestion and transformation logic using **Python**
-* Loaded structured datasets into **PostgreSQL**
-* Containerized pipeline services with **Docker**
-* Designed the workflow around **reliability, reproducibility, and maintainability**
-* Structured the project to reflect a production-style data engineering environment
+### 🔐 AWS IAM & Security
 
-**Impact:** Improved pipeline reliability while reducing manual workflow execution through automated orchestration.
+Managed **IAM roles, policies, and permission boundaries** using least-privilege principles to protect AWS resources from unauthorized access.
 
----
+### 🐍 Operations Automation
 
-## ⚡ Cloud & Real-Time Data Engineering Pipeline
+Developed **Python-based log parsing automation** to identify recurring system errors and reduce troubleshooting time during production incidents.
 
-> **Apache Spark • Airflow • AWS • Kafka • Flink**
+### 📦 Container Engineering
 
-Built a distributed data engineering pipeline designed around **cloud processing and real-time data movement**.
+Created optimized **multi-stage Docker builds** to reduce image size and build time, improving deployment efficiency and lowering storage usage.
 
-### Engineering Focus
+### ☸️ Kubernetes Operations
 
-* Processed distributed datasets using **Apache Spark**
-* Orchestrated data workflows with **Airflow**
-* Integrated cloud infrastructure using **AWS**
-* Worked with **Kafka** for streaming data ingestion
-* Used **Flink** concepts for stream processing
-* Designed the architecture for scalable batch and streaming workloads
+Monitored **Kubernetes pods, nodes, and workloads with Prometheus** to identify resource issues before they developed into application outages.
 
-**Impact:** Demonstrates an end-to-end approach to building scalable data systems for both batch and real-time processing.
+### 🔄 Infrastructure CI/CD
+
+Used **Git branching, pull requests, and CI/CD workflows** to control infrastructure changes, improve traceability, and reduce unreviewed production updates.
 
 ---
 
-## 🔄 From Production Support to Data Engineering
+# 🔥 Linux Is at the Core of What I Do
 
-One thing that differentiates my engineering approach is my background supporting **real enterprise production systems**.
+I work with Linux as an **infrastructure platform**, not simply as a command-line environment.
 
-Before focusing heavily on data engineering, I worked across systems and application support environments where failures had immediate operational consequences.
+My experience includes:
 
-That experience shaped how I build data systems today.
+```bash
+# Linux Administration
+RHEL 8 / RHEL 9
+SSH administration
+Users, groups & permissions
+System troubleshooting
+Log analysis
 
-```text
-Production Support
-       ↓
-Root Cause Analysis
-       ↓
-SQL + Automation
-       ↓
-Data Integration
-       ↓
-ETL / ELT Engineering
-       ↓
-Cloud Data Platforms
+# Security
+SELinux
+IPTables
+Firewall rules
+SSH restrictions
+Least-privilege access
+System hardening
+
+# Storage
+Physical volumes
+Volume groups
+LVM capacity expansion
+
+# Networking
+DNS
+TCP/IP
+Routing
+LAN/WAN
+Firewall troubleshooting
+
+# Automation
+Ansible
+Python
+Git
+CI/CD
 ```
 
-I approach pipelines with questions like:
-
-* What happens when the source data is malformed?
-* How do we detect failures before users do?
-* Can the pipeline safely be rerun?
-* How do we validate that the correct data reached the destination?
-* Where are the performance bottlenecks?
-* How quickly can an engineer identify the root cause of a failed job?
-
-For me, a successful pipeline isn't just one that **runs**.
-
-It's one that can be **trusted, monitored, debugged, and maintained**.
+I've hardened **RHEL 8 systems using SSH restrictions, SELinux, firewall controls, and secure permissions**, while also managing storage expansion through Linux volume management.
 
 ---
 
-## 🎯 Currently Focused On
+# ☁️ Cloud & Infrastructure Operations
 
-I'm continuing to deepen my expertise in:
+My cloud experience goes beyond deploying virtual machines.
 
-* Advanced **ETL/ELT architecture**
-* **Apache Airflow** orchestration
-* **PySpark & distributed processing**
-* **Azure Databricks**
-* Cloud-native data engineering
-* Data quality and observability
-* Batch and streaming architectures
-* Production-ready Docker environments
-* Scalable data platform design
+I work across the infrastructure lifecycle:
+
+```text
+Provision
+    ↓
+Configure
+    ↓
+Secure
+    ↓
+Automate
+    ↓
+Monitor
+    ↓
+Troubleshoot
+    ↓
+Optimize
+    ↓
+Recover
+```
+
+### AWS
+
+* EC2 administration
+* RHEL and Windows cloud workloads
+* IAM roles and policies
+* Permission boundaries
+* Least-privilege access
+* Infrastructure operations
+
+### Microsoft Azure
+
+* Azure virtual machines
+* Microsoft Entra ID integration
+* VM right-sizing
+* Cloud cost optimization
+* Azure Site Recovery
+* Disaster recovery planning
 
 ---
 
-## 💡 Engineering Philosophy
+# 🏢 Enterprise Infrastructure Experience
 
-> **Reliable data engineering starts with understanding how systems fail.**
+My background spans multiple layers of enterprise infrastructure.
 
-My background in production troubleshooting taught me to think beyond the happy path.
+### Current Focus — Systems & Cloud Infrastructure
 
-I build with **reliability, observability, data quality, performance, and maintainability** in mind—because the real engineering challenge begins when a pipeline encounters unexpected data, infrastructure failures, or production scale.
+```text
+AWS EC2
+   │
+   ├── RHEL 9
+   ├── Windows Server 2022
+   │
+   ├── Ansible Automation
+   ├── IAM Security
+   ├── Docker
+   ├── Kubernetes
+   ├── Prometheus
+   └── CI/CD
+```
+
+### Virtualization & Hybrid Infrastructure
+
+I've administered critical workloads across:
+
+```text
+VMware vSphere / ESXi
+        │
+        ├── Virtual Machines
+        ├── DRS
+        └── Resource Optimization
+
+Microsoft Hyper-V
+        │
+        └── Enterprise Workloads
+
+Microsoft Azure
+        │
+        ├── Virtual Machines
+        ├── Entra ID
+        └── Site Recovery
+```
+
+This experience gives me perspective across **traditional infrastructure, virtualization, hybrid environments, and cloud-native operations**.
 
 ---
 
-## 🤝 Let's Connect
+# 🛡️ Infrastructure Reliability & Security
 
-I'm interested in opportunities involving **Data Engineering, Cloud Data Platforms, ETL/ELT Development, Data Infrastructure, and Platform Engineering**.
+For me, infrastructure engineering isn't finished when a server comes online.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chaanyah_Laborde-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/claborde/)
-[![Email](https://img.shields.io/badge/Email-Let's_Connect-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:chaanyahlaborde@gmail.com)
+A production system should also be:
+
+* 🔒 **Secured** — least privilege, hardened access, firewall controls
+* 📊 **Observable** — metrics, logs, monitoring, actionable signals
+* 🔄 **Recoverable** — backups, recovery procedures, disaster recovery
+* ⚙️ **Automated** — repeatable provisioning and configuration
+* 📦 **Consistent** — controlled builds and deployment workflows
+* 📈 **Scalable** — infrastructure that can adapt to workload demand
+* 🔍 **Troubleshootable** — engineers can quickly identify why something failed
 
 ---
 
-### 💻 Build reliable pipelines. Validate the data. Automate the workflow. Engineer for production.
+# 🎓 Certifications
 
-⭐ **Explore my repositories below to see what I'm building.**
+### 🐧 Red Hat
+
+![RHCSA](https://img.shields.io/badge/Red_Hat-RHCSA-EE0000?style=for-the-badge\&logo=redhat\&logoColor=white)
+![RHCE](https://img.shields.io/badge/Red_Hat-RHCE-EE0000?style=for-the-badge\&logo=redhat\&logoColor=white)
+
+**Red Hat Certified System Administrator (RHCSA)**
+**Red Hat Certified Engineer (RHCE)**
+
+### ☁️ Amazon Web Services
+
+![AWS](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-232F3E?style=for-the-badge\&logo=amazonwebservices\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-SysOps_Administrator_Associate-232F3E?style=for-the-badge\&logo=amazonwebservices\&logoColor=white)
+
+**AWS Certified Solutions Architect – Associate**
+**AWS Certified SysOps Administrator – Associate**
+
+### 🔐 CompTIA
+
+![Security+](https://img.shields.io/badge/CompTIA-Security%2B-EA1D2C?style=for-the-badge)
+![Network+](https://img.shields.io/badge/CompTIA-Network%2B-EA1D2C?style=for-the-badge)
+![A+](https://img.shields.io/badge/CompTIA-A%2B-EA1D2C?style=for-the-badge)
+
+**CompTIA Security+** • **CompTIA Network+** • **CompTIA A+**
+
+---
+
+# 🏗️ Featured Infrastructure Projects
+
+## 🐧 Linux Infrastructure Automation Lab
+
+> **RHEL • Ansible • AWS • Bash • Python**
+
+Built a Linux infrastructure environment focused on repeatable server provisioning, configuration management, security, and operational automation.
+
+**Engineering Focus**
+
+* Automated RHEL configuration using Ansible
+* Implemented Linux security controls
+* Automated repetitive administrative operations
+* Managed Linux networking and storage
+* Designed repeatable server configurations
+
+**Goal:** Demonstrate production-oriented Linux administration and infrastructure automation.
+
+---
+
+## ☁️ AWS Cloud Operations Lab
+
+> **AWS EC2 • IAM • RHEL • Monitoring • Automation**
+
+Designed an AWS environment demonstrating cloud infrastructure administration and operational best practices.
+
+**Engineering Focus**
+
+* Provisioned EC2 workloads
+* Implemented IAM access controls
+* Applied least-privilege permissions
+* Automated Linux configuration
+* Monitored infrastructure health
+* Practiced production troubleshooting
+
+**Goal:** Demonstrate the complete lifecycle of operating Linux workloads in AWS.
+
+---
+
+## ☸️ Container Operations & Monitoring Lab
+
+> **Docker • Kubernetes • Prometheus • Linux**
+
+Built a containerized infrastructure environment focused on application deployment, orchestration, and observability.
+
+**Engineering Focus**
+
+* Built optimized Docker images
+* Deployed containerized workloads
+* Managed Kubernetes resources
+* Monitored pods and nodes
+* Used Prometheus for infrastructure visibility
+* Investigated resource and application failures
+
+**Goal:** Demonstrate practical container operations rather than deployment alone.
+
+---
+
+# 🎯 Currently Building
+
+I'm continuing to expand my infrastructure engineering portfolio around:
+
+`Advanced RHEL Administration`
+`Ansible Automation`
+`AWS Infrastructure`
+`Infrastructure as Code`
+`Kubernetes Operations`
+`Docker`
+`Linux Security & Hardening`
+`Prometheus / Observability`
+`CI/CD`
+`Cloud Networking`
+`High Availability`
+`Disaster Recovery`
+
+---
+
+# 💡 My Engineering Philosophy
+
+> ### "Infrastructure should be repeatable enough to automate, observable enough to troubleshoot, and resilient enough to recover."
+
+Production infrastructure inevitably encounters failures.
+
+The difference is whether the environment gives engineers the **automation, visibility, security controls, and recovery mechanisms** needed to respond effectively.
+
+That's the mindset I bring to Linux, cloud, and infrastructure engineering.
+
+---
+
+# 🤝 Let's Connect
+
+I'm interested in opportunities involving:
+
+**🐧 Linux Engineering**
+**⚙️ Infrastructure Engineering**
+**🔧 Operations Engineering**
+**☁️ Cloud Engineering**
+**🚀 DevOps / Platform Infrastructure**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/claborde/)
+[![Email](https://img.shields.io/badge/Email-chaanyahlaborde%40gmail.com-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:chaanyahlaborde@gmail.com)
+
+---
+
+<div align="center">
+
+### 🐧 Linux at the core. ☁️ Cloud at scale. ⚙️ Automation by default.
+
+**Building infrastructure that is reliable, secure, observable, and ready for production.**
+
+⭐ Explore my repositories below to see what I'm building.
+
+</div>
