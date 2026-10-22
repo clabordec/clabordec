@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Chaanyah Laborde
 
-### 🐧 Linux Engineer • ☁️ Cloud Engineer • ⚙️ Infrastructure Engineer • 🔧 Operations Engineer
+### 🛠️ Systems Engineer • ☁️ Cloud Engineer • ⚙️ Infrastructure Engineer • 🔧 Operations Engineer
 
 **Linux Administration | AWS | Azure | Ansible | Kubernetes | Docker | Python | Infrastructure Automation**
 
